@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488741706385",
+    "project_id": "mqgoapp",
+    "storage_bucket": "mqgoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488741706385:android:c47b49c5556906b2063d30",
+        "android_client_info": {
+          "package_name": "com.example.mqgo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKs-ciUhYLUB5-oRORXZ-rmF1sHngRQRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
